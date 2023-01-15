@@ -11,6 +11,8 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.0.0",
     "svelte": "^3.54.0",
+    "svelte-carousel": "^1.0.20",
+    "svelte-navigator": "^3.2.2",
     "vite": "^4.0.0"
   }
 }

@@ -1,3 +1,10 @@
+## Components
+
+- [Google Fonts](https://fonts.google.com/)
+- [Material Icons](https://fonts.google.com/icons?icon.style=Rounded)
+- [Svelte Navigator](https://github.com/mefechoel/svelte-navigator#readme)
+- [Svelte Carousel](https://github.com/vadimkorr/svelte-carousel)
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.

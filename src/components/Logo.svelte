@@ -1,7 +1,3 @@
-<script>
-  import {Link} from "svelte-navigator"
-</script>
-
 <div class="wrap">
   <a href="/">
     <span class="material-symbols-rounded">

@@ -35,4 +35,8 @@
   span {
     font-size: 3.5rem;
   }
+  img {
+    opacity: 0.8;
+    border: 5px solid #333;
+  }
 </style>
